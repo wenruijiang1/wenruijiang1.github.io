@@ -1,6 +1,6 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "Poseidon viewer"
+excerpt: "A visualization tool for the ocean dataset LLC4320<br/><img src='/images/poseidon_viewer.png'>"
 collection: portfolio
 ---
 
