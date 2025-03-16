@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Curriculum Vitae (CV)"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -9,22 +9,14 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-* Ph.D. in Physical Oceanography, Johns Hopkins University, 2025 (expected)
-* M.S. in Earth and Planetary Sciences, Johns Hopkins University, 2025 (expected)
-* M.S.E. in Mechanical Engineering, Johns Hopkins University, 2024
-* B.S. in Atmospheric Science, Fudan University, 2021
+---
 
-Skills
-======
-* Fluent in Madarin Chinese and English. 
-* Programming
-  * Python
-  * Fortran
+# Biographical Sketch
+Wenrui Jiang is currently a fourth year Ph.D. candidate at [Tom Haine's lab](https://sites.krieger.jhu.edu/haine/) in Johns Hopkins University, where he conducts research on high latitude ocean circulation, tracer kinematics, and submesoscale dynamics. He joined the group in 2021 after receiving his B.S. of Atmospheric Science from Fudan University.  He received a master's degree of Mechanical Engineering from Johns Hopkins in 2024. 
 
-Selected Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+
+
+If file does not load below, <a href="{{ site.baseurl }}/files/WenruiJiang_CV.pdf">try downloading (pdf).</a>
+
+<embed src="{{ site.baseurl }}/files/WenruiJiang_CV.pdf" width="650" height="800" type='application/pdf'>
+
