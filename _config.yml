@@ -22,10 +22,10 @@ repository               : "wenruijiang1/wenruijiang1.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "head.jpg"
   name             : "Wenrui Jiang"
-  pronouns         : # example: "she/her"  
-  bio              : "Junior Computational Physical Oceanographer"
+  pronouns         : "he/him"
+  bio              : "A very junior Computational Physical Oceanographer"
   location         : "Baltimore"
   employer         : "Johns Hopkins University"
   uri              : # URL
@@ -35,7 +35,7 @@ author:
   arxiv            : # URL - Update with the correct link to your profile
   googlescholar    : "https://scholar.google.com/citations?user=3OsLZ8YAAAAJ&hl=zh-CN"
   impactstory      : # URL
-  orcid            : "https://orcid.org/my-orcid?orcid=0009-0000-7319-9469"
+  orcid            : "https://orcid.org/0009-0000-7319-9469"
   semantic         : # URL
   pubmed           : # URL
   researchgate     : # URL
