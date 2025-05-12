@@ -1,6 +1,6 @@
 ---
-title: "Poseidon viewer"
-excerpt: "A visualization tool for the ocean dataset LLC4320<br/><img src='/images/poseidon_viewer.png'>"
+title: "📌 Poseidon viewer"
+excerpt: "A visualization tool for the ocean dataset LLC4320<br/><img src='/images/poseidon_viewer.png' style='width: 500px;'>"
 collection: portfolio
 ---
 
