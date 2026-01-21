@@ -18,4 +18,5 @@ Wenrui Jiang is currently a fourth year Ph.D. candidate at [Tom Haine's lab](htt
 
 If file does not load below, <a href="{{ site.baseurl }}/files/WenruiJiang_CV-250629.pdf">try downloading (pdf).</a>
 
-<embed src="{{ site.baseurl }}/files/WenruiJiang_CV-250506.pdf" width="650" height="800" type='application/pdf'>
+<embed src="{{ site.baseurl }}/files/WenruiJiang_CV-250629.pdf" width="650" height="800" type='application/pdf'>
+
