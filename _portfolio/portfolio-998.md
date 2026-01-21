@@ -1,6 +1,6 @@
 ---
 title: "cartopy.crs.Spilhaus"
-excerpt: "A map projection for ocean <br/><img src='/images/spilhaus_size.webp' style='width: 500px;'>"
+excerpt: "A map projection for ocean <br/><img src='/images/portfolio/spilhaus_size.webp' style='width: 500px;'>"
 collection: portfolio
 ---
 
@@ -12,10 +12,10 @@ This in itself is really not worth mentioning, but I just like this map so much.
 
 First, it put all the ocean together. 
 
-![](/images/aabw_thickness.png)
+![](/images/portfolio/aabw_thickness.png)
 *Thickness of AABW-like water (>34.5 psu, <1.5 degC) in LLC4320 data set*
 
 Also, you can use it as bathroom tile!
 
-![](/images/spilhaus_tile.png)
+![](/images/portfolio/spilhaus_tile.png)
 *Four Spilhaus merged together so that there is no cut through the Gulf of...Well , you know the Gulf I am talking about.*

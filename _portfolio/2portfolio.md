@@ -1,6 +1,6 @@
 ---
 title: "📌 Seaduck"
-excerpt: "A python package for Eulerian and Lagrangian Interpolation<br/><img src='/images/seaduck_south.png'>"
+excerpt: "A python package for Eulerian and Lagrangian Interpolation<br/><img src='/images/portfolio/seaduck_south.png'>"
 collection: portfolio
 ---
 
