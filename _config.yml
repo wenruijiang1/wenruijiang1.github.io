@@ -9,10 +9,10 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Wenrui Jiang / Ph.D. candidate"
+title                    : "Wenrui Jiang / Postdoctoral Associate"
 title_separator          : "-"
 name                     : &name "Wenrui Jiang"
-description              : &description "Ph.D. candidate of Physical Oceanography"
+description              : &description "Postdoc in Physical Oceanography"
 url                      : https://wenruijiang1.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "wenruijiang1/wenruijiang1.github.io"
